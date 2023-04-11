@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi there 👋 I'm Lawrence</h2>
+</div>
 
 <!--
 **Kwaku28/Kwaku28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
