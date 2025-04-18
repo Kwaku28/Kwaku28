@@ -1,6 +1,7 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=5271ff&width=650&height=70&lines=Hey+there+👋+I'm+Lawrence;Welcome+to+my+profile..."><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5271FF&multiline=true&width=750&separator=%3C&lines=Hey+there+%F0%9F%91%8B+I'm+Lawrence;+Welcome+to+my+profile..." alt="Typing SVG" />
+  </a><br>
 </h1>
 
 <p align="center">
